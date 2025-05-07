@@ -4,7 +4,7 @@
     "traveler":{
         "name": "John",
         "contact": 
-            {"email": "john@gmail,com", "phone": "123-456-7896"}   
+            {"email": "john@gmail.com", "phone": "123-456-7896"}   
     },
 
     "destination": [
