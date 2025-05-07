@@ -1,0 +1,39 @@
+{
+    "trip-name": "Hawaii Trip",
+
+    "traveler":{
+        "name": "John",
+        "contact": 
+            {"email": "john@gmail,com", "phone": "123-456-7896"}   
+    },
+
+    "destination": [
+        { "location": "Tropical Vibes Tour", "arrivalDate": "2025-06-08", "departureDate":"2025-06-10",
+            "activities": [
+                {"title": "Paddleboarding", "schedulingTime": "9:00 am"},
+                {"title": "Catamaran cruise", "schedulingTime": "11:00 pm"},
+                {"title": "Visiting botanical gardens", "schedulingTime": "4:00 pm"},
+                {"title": "Scenic drive", "schedulingTime": "6:00 pm"}
+            ]
+        }, 
+
+        { "location": "Hawaiian Horizons", "arrivalDate": "2025-06-11", "departureDate":"2025-06-14",
+            "activities": [
+                {"title": "Haleakala National Park", "schedulingTime": "9:00 am"},
+                {"title": "Diamond Head Crater Hike", "schedulingTime": "12:00 pm"},
+                {"title": "Bishop Museum", "schedulingTime": "2:00 pm"},
+                {"title": "Sea Turtle Viewing", "schedulingTime": "8:00 am"}
+            ]
+        },
+
+        { "location": "Aloha Adventure", "arrivalDate": "2025-06-15", "departureDate":"2025-06-18",
+            "activities": [
+                {"title": "Scuba Diving", "schedulingTime": "8:00 am"},
+                {"title": "Black Sand Beach", "schedulingTime": "5:00 pm"},
+                {"title": "Hula Dance Workshop", "schedulingTime": "10:00 am"},
+                {"title": "SFire Dance Show ", "schedulingTime": "5:00 pm"}
+            ]
+        } 
+
+    ]
+}
